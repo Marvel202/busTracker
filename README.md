@@ -1,5 +1,5 @@
 # busTracker
-Tracking Boston Bus route
+Tracking Boston Bus route. This app contains an interactive button to demonstrate stops on the map for route 66 in Boston.  
 
 
 
